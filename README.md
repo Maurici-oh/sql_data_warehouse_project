@@ -13,7 +13,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 * **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholderd and analytics teams.
 
-## BI: Analytics & Reporting (Data Analytics)
+## 📈 BI: Analytics & Reporting (Data Analytics)
 **Objective**  
 Develop SQL-based analytics to deliver detailed insights into:
     * Customer Behavior
@@ -22,11 +22,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 ## 🛠️ Tech Stack
 
-**SQL Server**  
-**Tableau**  
-**Draw.io**  
-**Notion** 
-
+* **SQL Server**  
+* **Tableau**  
+* **Draw.io**  
+* **Notion** 
 
 ## 🤝 Contributing
 
